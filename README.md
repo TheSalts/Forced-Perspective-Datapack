@@ -21,3 +21,6 @@ HmmmPlus by DURUMI (The article link has gone)
 - [ ] Add hitbox like shulker
 
 I think it's going to be hard to make it anymore because I'm busy with college entrance.
+
+# License
+MIT License
