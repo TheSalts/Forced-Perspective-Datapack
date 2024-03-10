@@ -23,4 +23,4 @@ HmmmPlus by DURUMI (The article link has gone)
 I think it's going to be hard to make it anymore because I'm busy with college entrance.
 
 # License
-MIT License
+[MIT License](https://github.com/TheSalts/Forced-Perspective-Datapack/blob/main/LICENSE)
