@@ -1,5 +1,8 @@
 https://imgur.com/a/XmKWkTR
 
+# Download
+Download on [Modrinth](https://modrinth.com/datapack/forced-perspective)
+
 # How to use
 `/function slm:private/setting/create_block` to summon a block
 
