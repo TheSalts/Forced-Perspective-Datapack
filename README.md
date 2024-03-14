@@ -20,7 +20,6 @@ HmmmPlus by DURUMI (The article link has gone)
 - [ ] Support non-full blocks
 - [ ] Add hitbox like shulker
 
-I think it's going to be hard to make it anymore because I'm busy with college entrance.
 
 # License
 [MIT License](https://github.com/TheSalts/Forced-Perspective-Datapack/blob/main/LICENSE)
